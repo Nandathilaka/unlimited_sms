@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">UnlimitedSMS</string>
+    <string name="app_name">SMS Unlimited</string>
+    <string name="loading_application">Loading Application</string>
 </resources>
